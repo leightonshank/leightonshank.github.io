@@ -1,4 +1,5 @@
-== Chrome OS
+Chrome OS
+---------
 
 On Chromebook itself just did the 'dev_install', and then:
 
@@ -7,7 +8,8 @@ On Chromebook itself just did the 'dev_install', and then:
 Base dev_install will give you 'python' as a language within Chrome OS itself.  ALso
 installed Go, since Google made it pretty simple to install within Chrome OS.
 
-== Guest OS (Debian)
+Guest OS (Debian via crouton)
+-----------------------------
 
 After installing Debian 'wheezy' using crouton (needs link) cli-extra target, installed these packages:
 
