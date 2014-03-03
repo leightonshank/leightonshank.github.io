@@ -1,4 +1,4 @@
-After installing Debian 'wheezy' using crouton (needs link), installed these packages:
+After installing Debian 'wheezy' using crouton (needs link) cli-extra target, installed these packages:
 
 -  git
 -  vim
