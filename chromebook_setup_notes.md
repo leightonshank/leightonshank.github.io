@@ -23,10 +23,32 @@ After installing Debian _wheezy_ using  [crouton](https://github.com/dnschneid/c
 -  gcc*
 -  make*
 -  libssl-dev*
+-  libsqlite3-dev^
+-  libv8-dev^
+-  build-essential
 
 Also installed [rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build).
 
 \* _needed by ruby-build to compile ruby_
+^ _needed by rails_
+
+Used ruby-build plugin to rbenv to install ruby 2.1.1 (latest version).  Then installed rails 4.0.3 (latest version) by running 'gem install rails'.  Had to install a few new packages (listed above).  Then setup a hello world program, and had to install a few more packages (also listed above).  Had to uncomment the line for 'therubyracer' JavaScript engine in the stock Gemfile, then run 'build install'.  Needed to install the 'build-essintial' package from apt (above) to get 'therubyracer' to compile (it was looking for g++).
+
+After all of that, ran 'rails server', and then had a rails server running on port 3000, which I was then able to access with Chrome running in Chrome OS.  That's the goal, be able to have a "native" development environment and be able to do complete local development without network access.
+
+Right now I've got it solved for:
+
+-  python
+-  go
+-  ruby / rails
+-  C (and anything else gcc will handle)
+
+Installed these other packages with Debian too:
+
+-  tmux (gotta have my tmux)
+   also installed the 'tmuxinator' gem
+
+__Note:  remember that with rbenv you need to run 'rbenv rehash' any time you install something new to get the shims setup right for your new executables.__  Ran into this after installing 'rails' and again with 'tmuximator'.
 
 
 
