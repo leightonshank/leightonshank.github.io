@@ -26,6 +26,7 @@ After installing Debian _wheezy_ using  [crouton](https://github.com/dnschneid/c
 -  libsqlite3-dev^
 -  libv8-dev^
 -  build-essential
+-  curl
 
 Also installed [rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build).
 
@@ -49,6 +50,10 @@ Installed these other packages with Debian too:
    also installed the 'tmuxinator' gem
 
 __Note:  remember that with rbenv you need to run 'rbenv rehash' any time you install something new to get the shims setup right for your new executables.__  Ran into this after installing 'rails' and again with 'tmuximator'.
+
+Also installed [pathogen](https://github.com/tpope/vim-pathogen) for vim.
+
+
 
 
 
