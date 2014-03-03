@@ -5,7 +5,7 @@ On Chromebook itself just did the 'dev_install', and then:
 
 -  tmux
 
-Base dev_install will give you 'python' as a language within Chrome OS itself.  Also installed Go, since Google made it pretty simple to install within Chrome OS.  This [guide](http://golang.org/doc/install#tarball) was useful.  Also had to mount /home/chronos/user and /tmp as 'exec' to get it to work.
+Base dev_install will give you 'python' as a language within Chrome OS itself.  Also installed [Go](http://golang.org), since Google made it pretty simple to install within Chrome OS.  This [guide](http://golang.org/doc/install#tarball) was useful.  Also had to mount /home/chronos/user and /tmp as 'exec' to get it to work.
 
 This link was useful too:
 
@@ -24,9 +24,9 @@ After installing Debian _wheezy_ using  [crouton](https://github.com/dnschneid/c
 -  make*
 -  libssl-dev*
 
-Also installed rbenv (needs link) and ruby-build (needs link).
+Also installed [rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build).
 
-\* _needed for rbenv to compile ruby_
+\* _needed by ruby-build to compile ruby_
 
 
 
