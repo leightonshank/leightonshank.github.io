@@ -27,6 +27,7 @@ After installing Debian _wheezy_ using  [crouton](https://github.com/dnschneid/c
 -  libv8-dev^
 -  build-essential
 -  curl
+-  uuid-runtime (for Inform7)
 
 Also installed [rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build).
 
@@ -53,6 +54,7 @@ __Note:  remember that with rbenv you need to run 'rbenv rehash' any time you in
 
 Also installed [pathogen](https://github.com/tpope/vim-pathogen) for vim.
 
+Installed Inform7 with the [installer](http://inform7.com/download/content/6G60/I7_6G60_Linux_all.tar.gz) downloaded from http://inform7.com/download.  Version was 6G60 as of this install.  Inform7 installs itself into /usr/local with statically linked binaries, so I thought it would be a good candidate to install in the native Chrome OS, but it needs a perl interpreter, so installed it in the Debian chroot.  Interestingly enough, the Inform 7 shell needs 'uuidgen' to create a new story, which is provided in Chrome OS, but not in the Debian install.  Needed to install the 'uuid-runtime' package through apt.
 
 
 
