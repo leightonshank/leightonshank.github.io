@@ -1,3 +1,5 @@
+These are my notes in setting up a stock [Acer C720](http://www.bestbuy.com/site/acer-c720-11-6-chromebook-2gb-memory-16gb-solid-state-drive-granite-gray/2746011.p?id=1219077152618&skuId=2746011) (2GB RAM / 16GB SSD).  Right now I'm running the 'beta' channel of Chrome OS, currently at v34.0.1847.38 beta.  
+
 Chrome OS
 ---------
 
@@ -7,7 +9,7 @@ On Chromebook itself just did the 'dev_install', and then:
 
 Base dev_install will give you 'python' as a language within Chrome OS itself.  Also installed [Go](http://golang.org), since Google made it pretty simple to install within Chrome OS.  This [guide](http://golang.org/doc/install#tarball) was useful.  Also had to mount /home/chronos/user and /tmp as 'exec' to get it to work.
 
-Note:  I needed to run 'dev_install' as root itself, not through sudo.  When I ran it under sudo it gave some kind of error relating to python.  But if you become root with 'sudo su -' and run 'dev_install' as root then it works.
+__Note:  I needed to run 'dev_install' as root itself, not through sudo.__  When I ran it under sudo it gave some kind of error relating to python.  But if you become root with 'sudo su -' and run 'dev_install' as root then it works.
 
 This link was useful too:
 
