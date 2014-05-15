@@ -6,7 +6,7 @@ leighton.shank@gmail.com
 
 Objective
 ---------
-I am an experienced and passionate developer and team leader
+I am an experienced, innovative, and driven developer and team leader
 seeking opportunities in a creative and collaborative environment
 researching and implementing new techologies.
 
@@ -21,6 +21,7 @@ Areas of Expertise
 - Experienced in integrating software applications with existing systems
 - Able to quickly learn new programming languages and technologies
 - Leading and working on development teams using Agile practices
+- Working with and contribuiting to open-source projects
 
 Technical Skills
 ----------------
