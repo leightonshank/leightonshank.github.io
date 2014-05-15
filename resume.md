@@ -1,9 +1,7 @@
 Leighton Shank
 ==============
-http://www.leightonshank.com
-
-leighton.shank@gmail.com
-
+http://www.leightonshank.com  
+leighton.shank@gmail.com  
 (540) 560-3265
 
 Objective
@@ -63,5 +61,5 @@ __JMU Computing Support - Lab Services Administrator__ (Aug 2000 - Jan 2001)
 
 Education
 ---------
-__James Madison University__ (1996 - 2000)
+__James Madison University__ (1996 - 2000)  
 B.S. Computer Science
