@@ -26,7 +26,7 @@ Technical Skills
 ----------------
 - __Languages:__ PHP, JavaScript, Node.js, Ruby, Python, Perl, C, Objective-C
 - __Frameworks:__ Ruby on Rails, Django, Code Ignitor
-- __JavaScript, HTML & CSS:__ HTML5, CSS3, jQuery, Backbone.js, Less, Sass
+- __JavaScript, HTML, and CSS:__ HTML5, CSS3, jQuery, Backbone.js, Less, Sass
 - __Databases:__ PostgreSQL, MySQL, Cassandra, ElasticSearch
 - __Systems:__ RedHat and Debian based Linux distributions
 - __Applications:__ Apache, Memcache, Beanstalkd, Nagios, Jenkins CI,
@@ -35,20 +35,24 @@ Technical Skills
 Work Experience
 ---------------
 __Getloaded - Product Development Manager__ (Jun 2009 - present)
-- Leading development teams
-- Working with stakeholders to define project requirements
-- Project management
+- Lead and manage a development team of six engineers for the online
+  load board [Getloaded](http://www.getloaded.com)
+- Work with stakeholders to define project requirements
+- Manage projects to maintain quality and deliver on-time results
 - Linux server administration
-- Encouraging Agile best practices and coaching a Scrum team
-- Day-to-day project development
-- Implementing automated testing and continious integration
+- Encourage Agile best practices
+- Day-to-day project development and troubleshooting
+- Implement automated testing and continious integration
+- Created a custom PHP framework (inspired by Ruby on Rails)
 
 __Getloaded - Senior/Lead Developer__ (Feb 2007 - Jun 2009)
-- Leading development efforts on large projects
-- Mentoring other developers
+- Lead development efforts on large projects with multiple developers
+- Create project plans to successfully deliver projects on-time
+- Design project architectures
+- Mentor other developers
 
 __Getloaded - Developer__ (Aug 2006 - Feb 2007)
-- Project development
+- Worked on independent and team projects
 
 __SOS Advertising/GoLookOn.com__ (Jan 2001 - Aug 2006)
 - Created GoLookOn.com, a community and business directory
