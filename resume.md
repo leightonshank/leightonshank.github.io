@@ -38,6 +38,7 @@ Technical Skills
 Work Experience
 ---------------
 __Getloaded - Product Development Manager__ (Jun 2009 - present)
+
 - Lead and manage a development team of six engineers for the online
   load board [Getloaded](http://www.getloaded.com)
 - Work with stakeholders to define project requirements
@@ -49,20 +50,24 @@ __Getloaded - Product Development Manager__ (Jun 2009 - present)
 - Created a custom PHP framework (inspired by Ruby on Rails)
 
 __Getloaded - Senior/Lead Developer__ (Feb 2007 - Jun 2009)
+
 - Lead development efforts on large projects with multiple developers
 - Create project plans to successfully deliver projects on-time
 - Design project architectures
 - Mentor other developers
 
 __Getloaded - Developer__ (Aug 2006 - Feb 2007)
+
 - Worked on independent and team projects
 
 __SOS Advertising/GoLookOn.com__ (Jan 2001 - Aug 2006)
+
 - Created GoLookOn.com, a community and business directory
 - Created a custom in-house customer and sales management system
 - Setup office network and maintained Mac and PC desktops 
 
 __JMU Computing Support - Lab Services Administrator__ (Aug 2000 - Jan 2001)
+
 - Maintain and administer computer labs on campus
 - Created a system to re-image and manage lab computers
 
