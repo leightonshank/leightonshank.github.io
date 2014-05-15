@@ -33,7 +33,7 @@ Technical Skills
 - __Databases:__ PostgreSQL, MySQL, Cassandra, ElasticSearch
 - __Systems:__ RedHat and Debian based Linux distributions
 - __Applications:__ Apache, Memcache, Beanstalkd, Nagios, Jenkins CI,
-  New Relic, GitHub, WordPress
+  New Relic, GitHub, WordPress, Jekyll
 
 Work Experience
 ---------------
