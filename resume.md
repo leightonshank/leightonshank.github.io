@@ -24,9 +24,11 @@ Areas of Expertise
 
 Technical Skills
 ----------------
-- __Languages:__ PHP, JavaScript, Node.js, Ruby, Python, Perl, C, Objective-C
+- __Languages:__ PHP, JavaScript, Ruby, Node.js, Python, Perl,
+  Objective-C, C/C++, Go
 - __Frameworks:__ Ruby on Rails, Django, Code Ignitor
-- __JavaScript, HTML, and CSS:__ HTML5, CSS3, jQuery, Backbone.js, Less, Sass
+- __JavaScript, HTML, and CSS:__ HTML5, CSS3, jQuery, Backbone.js,
+  Rapha&#235;l.js, CoffeeScript, Less, Sass, Bootstrap
 - __Databases:__ PostgreSQL, MySQL, Cassandra, ElasticSearch
 - __Systems:__ RedHat and Debian based Linux distributions
 - __Applications:__ Apache, Memcache, Beanstalkd, Nagios, Jenkins CI,
