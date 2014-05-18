@@ -31,7 +31,8 @@ Technical Skills
 - __JavaScript, HTML, and CSS:__ HTML5, CSS3, jQuery, Backbone.js,
   Rapha&#235;l.js, CoffeeScript, Less, Sass, Bootstrap
 - __Databases:__ PostgreSQL, MySQL, Cassandra, ElasticSearch
-- __Systems:__ RedHat and Debian based Linux distributions
+- __Systems:__ RedHat and Debian based Linux distributions, VMware, VirtualBox,
+  Vagrant, Puppet
 - __Applications:__ Apache, Memcache, Beanstalkd, Nagios, Jenkins CI, Travis CI,
   New Relic, GitHub, WordPress, Jekyll
 
