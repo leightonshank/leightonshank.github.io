@@ -67,7 +67,7 @@ __SOS Advertising/GoLookOn.com__ (Jan 2001 - Aug 2006)
 - Created a custom in-house customer and sales management system
 - Setup office network and maintained Mac and PC desktops 
 
-__JMU Computing Support - Lab Services Administrator__ (Aug 2000 - Jan 2001)
+__JMU Computing Support - Lab Services Administrator__ (Jun 2000 - Jan 2001)
 
 - Maintain and administer computer labs on campus
 - Created a system to re-image and manage lab computers
