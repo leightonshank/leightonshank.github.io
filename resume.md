@@ -26,13 +26,12 @@ Areas of Expertise
 Technical Skills
 ----------------
 - __Languages:__ PHP, JavaScript, Ruby, Node.js, Python, Perl,
-  Objective-C, C/C++, Go
+  Objective-C, C/C++
 - __Frameworks:__ Ruby on Rails, Django, Code Ignitor
 - __JavaScript, HTML, and CSS:__ HTML5, CSS3, jQuery, Backbone.js,
   Rapha&#235;l.js, CoffeeScript, Less, Sass, Bootstrap
 - __Databases:__ PostgreSQL, MySQL, Cassandra, ElasticSearch
-- __Systems:__ RedHat and Debian based Linux distributions, VMware, VirtualBox,
-  Vagrant, Puppet
+- __Systems:__ RedHat and Debian based Linux distributions
 - __Applications:__ Apache, Memcache, Beanstalkd, Nagios, Jenkins CI, Travis CI,
   New Relic, GitHub, WordPress, Jekyll
 
@@ -45,7 +44,7 @@ __Getloaded - Product Development Manager__ (Jun 2009 - present)
 - Work with stakeholders to define project requirements
 - Manage projects to maintain quality and deliver on-time results
 - Linux server administration
-- Encourage Agile best practices
+- Encourage Agile best practices using Scrum
 - Day-to-day project development and troubleshooting
 - Implement automated testing and continious integration
 - Created a custom PHP framework (inspired by Ruby on Rails)
