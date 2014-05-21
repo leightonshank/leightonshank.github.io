@@ -25,7 +25,19 @@ Now that we have the updated version of node.js, let's continue with the Atom bu
     script/build
     sudo script/grunt install
     
-    
+After that, tried to run `atom`, but got an error that it couldn't find the `DISPLAY`.  Copied the `.Xauthority` file from `/home/chronos/.Xauthority` into my home directory within the chroot, and then set the `XAUTHORITY` and `DISPLAY` variables.
+
+    # in chrome os
+    sudo cp /home/chronos/.Xauthority /usr/local/chroots/precise/home/leo
+    # in the 'precise' chroot
+    export DISPLAY=:0.0
+    export XAUTHORITY=$HOME/.Xauthority
+
+Now running `atom` doesn't give a `DISPLAY` error, but doesn't work either.  The UI just froze up, no Atom editor.  Had to switch to a VT (ctrl-alt-F2), login, and kill the atom processes with `sudo killall atom` (from within chrome os).
+
+So I guess running Atom on Chrome OS isn't going to work with this setup.  I guess an option would be to run a second window manager in another VT like is described in the crouton docs, but I was trying to avoid that.  It will just eat up resources and not be too convenient.
+
+Not that Atom is needed, I can get by with trusty ol' Vim.  Just wanted to try out Atom -- who knows, maybe it could be better than trusty ol' Vim.
     
     
     
