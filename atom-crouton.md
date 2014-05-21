@@ -4,7 +4,7 @@ First I tried to install Atom in my Debian _wheezy_ chroot, but that didn't work
 glibc 2.14/2.15 and _wheezy_ only has glibc 2.13.  These were the steps to install Atom (the dependencies
 were determined by trial-and-error, and are consolidated here for convenience).
 
-    $ sudo apt-get install libgtk2.0-dev libnotify-dev libxtst-dev libnss3-dev
+    $ sudo apt-get install libgtk2.0-dev libnotify-dev libxtst-dev libnss3-dev git-core
     $ git clone https://github.com/atom/atom.git
     $ cd atom
     $ sudo script/grunt install
