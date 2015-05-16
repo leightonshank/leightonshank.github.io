@@ -1,0 +1,18 @@
+- create chroot `sudo sh ~/Downloads/crouton -t core -r precise -n clide`
+- enter chroot `sudo enter-chroot`
+- install vim `(clide) sudo apt-get install vim`
+- install git `(clide) sudo apt-get install git`
+- created ssh keys `(clide) ssh-keygen -t rsa -b 4096 -C "clide@leightonshank.com"`
+- uploaded public key to GitHub
+- link ~/Downloads/Projects -> ~/Code `(clide) ln -s ~/Downloads/Projects ~/Code`
+- clone dotfiles `git clone git@github.com:leightonshank/dotfiles.git .dotfiles && cd .dotfiles`
+- bootstrap dotfiles `./script/bootstrap`
+- install curl `(clide) sudo apt-get install curl`
+- edit ~/.gitignore to remove [push] section
+- install python-pip `(clide) sudo apt-get install python-pip`
+- install ruby `(clide) sudo apt-get install ruby`
+- install zsh `(clide) sudo apt-get install zsh`
+- set zsh shell `(clide) chsh -s /usr/bin/zsh`
+- install node `(clide) nvm install 0.12`
+
+- GET TO WORK!
